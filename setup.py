@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='Caculator',
+setup(name='Calculator',
       version='0.1',
       description='You can use this to calculate problems you can do by hand',
       url='http://github.com/DGTV11/funniest',
